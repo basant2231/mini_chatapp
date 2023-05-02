@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143566839575",
+    "project_id": "messagemeapp-a6d14",
+    "storage_bucket": "messagemeapp-a6d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143566839575:android:e2b8fb81fcf7aa4bf2a152",
+        "android_client_info": {
+          "package_name": "com.BasantAdel.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143566839575-u07rtfddkbsaq6lr9jk977gq47pdqkgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFR-_RLC1Bc4A9FgE9TLTJV1rBnuJYlOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143566839575-u07rtfddkbsaq6lr9jk977gq47pdqkgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
